@@ -2,7 +2,7 @@
 
 Product Manager with 7+ years building products — from 0-to-1 through Series D.
 
-I work at the intersection of product, growth, and operations. Currently building at **Keka**. Previously scaled BetterPlace's Time & Attendance product to **1.2M+ users** and helped achieve PMF in GCC & Southeast Asia.
+I work at the intersection of product, growth, and operations. Currently building at [Keka](https://www.keka.com/). Previously scaled [BetterPlace](https://www.betterplace.co.in/)'s Time & Attendance product to 1.2M+ users and helped achieve PMF in GCC & Southeast Asia.
 
 ---
 
