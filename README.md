@@ -8,8 +8,8 @@ I work at the intersection of product, growth, and operations. Currently buildin
 
 ## 🛠️ What I'm building
 
-- **[Reva](https://github.com/akhiljhn/reva)** — *(AI Assistant for google review management)*
-- **[Todo SaaS](https://todo-saas-seven.vercel.app)** — A task management SaaS built with Next.js
+- 🔒 **HypeBuddy** *(stealth)* — Automated work contribution tracker that pulls Slack activity, generates weekly summaries via AI, and builds a searchable work history — so your impact isn't forgotten at review time.
+- **[Reva](https://github.com/akhiljhn/reva)** — AI Assistant for Google review management
 
 ---
 
